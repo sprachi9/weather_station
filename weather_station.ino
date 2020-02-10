@@ -1,17 +1,3 @@
-/**********************************************************
- 
- Adafruit Huzzah IoT weather station with:
- 
- DHT11  - For humidity
- BMP180 - For pressure
- TMP102 - For temperature
-
- I2C - pins - 5(SDA) and 4(SCL)
- 
- DHT pin - 2
-
- by KonstatinDimitrov
-***********************************************************/ 
 
 /*******************LIBRARIES**************************/
 // Libraries
